@@ -1,0 +1,46 @@
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\bin\Debug\N-reynas.exe.config
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\bin\Debug\N-reynas.exe
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\bin\Debug\N-reynas.pdb
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\bin\Debug\N-reynas.xml
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\obj\Debug\N_reynas.Form1.resources
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\obj\Debug\N_reynas.Resources.resources
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\obj\Debug\N-reynas.vbproj.GenerateResource.Cache
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\obj\Debug\N-reynas.exe
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\obj\Debug\N-reynas.xml
+C:\Users\Jose Luis Rivera\AppData\Local\Temporary Projects\N-reynas\obj\Debug\N-reynas.pdb
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\obj\Debug\N_reynas.Form1.resources
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\obj\Debug\N_reynas.Resources.resources
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\obj\Debug\N-reynas.vbproj.GenerateResource.Cache
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\bin\Debug\N-reynas.exe.config
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\bin\Debug\N-reynas.exe
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\bin\Debug\N-reynas.pdb
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\bin\Debug\N-reynas.xml
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\obj\Debug\N-reynas.exe
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\obj\Debug\N-reynas.xml
+C:\Users\Jose Luis Rivera\Documents\Visual Studio 2013\Projects\N-reynas\N-reynas\obj\Debug\N-reynas.pdb
+E:\COMPARTIR SD\N-reynas\N-reynas\bin\Debug\N-reynas.exe.config
+E:\COMPARTIR SD\N-reynas\N-reynas\bin\Debug\N-reynas.exe
+E:\COMPARTIR SD\N-reynas\N-reynas\bin\Debug\N-reynas.pdb
+E:\COMPARTIR SD\N-reynas\N-reynas\bin\Debug\N-reynas.xml
+E:\COMPARTIR SD\N-reynas\N-reynas\obj\Debug\N_reynas.Form1.resources
+E:\COMPARTIR SD\N-reynas\N-reynas\obj\Debug\N_reynas.Resources.resources
+E:\COMPARTIR SD\N-reynas\N-reynas\obj\Debug\N-reynas.vbproj.GenerateResource.Cache
+E:\COMPARTIR SD\N-reynas\N-reynas\obj\Debug\N-reynas.exe
+E:\COMPARTIR SD\N-reynas\N-reynas\obj\Debug\N-reynas.xml
+E:\COMPARTIR SD\N-reynas\N-reynas\obj\Debug\N-reynas.pdb
+E:\COMPARTIR SD\N-reynas\N-reynas\obj\Debug\N_reynas.Form2.resources
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\bin\Debug\N-reynas.exe.config
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\bin\Debug\N-reynas.exe
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\bin\Debug\N-reynas.pdb
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\bin\Debug\N-reynas.xml
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N_reynas.Form1.resources
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N_reynas.Form2.resources
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N_reynas.Resources.resources
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N-reynas.vbproj.GenerateResource.Cache
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N-reynas.exe
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N-reynas.xml
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N-reynas.pdb
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N-reynas.exe.licenses
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N_reynas.INFORMACION.resources
+C:\Users\Jose Luis Rivera\Desktop\N-reynas\N-reynas\obj\Debug\N-reynas.vbprojResolveAssemblyReference.cache
